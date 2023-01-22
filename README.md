@@ -8,7 +8,7 @@
 <!-- [![img](/header-img-3.jpg)](https://twitter.com/
 Grigoren_com) -->
 
-<p style="font-size: 24px; text-align: center">Connect with me:</p>
+<span style="font-size: 24px; text-align: center">Connect with me:</span>
 
 [![](https://img.shields.io/badge/twitter-81DAF5?style=for-the-badge&logo=twitter&logoColor=1d9bf0)](https://twitter.com/Grigoren_com)
 [![](https://img.shields.io/badge/facebook-81DAF5?style=for-the-badge&logo=facebook)](https://www.facebook.com/GrigorenCom)
