@@ -8,9 +8,9 @@
 <!-- [![img](/header-img-3.jpg)](https://twitter.com/
 Grigoren_com) -->
 
+<hr>
 
-<span style="font-size: 24px;">Connect with me:</span>
-
+## Connect with me:
 
 [![](https://img.shields.io/badge/twitter-81DAF5?style=for-the-badge&logo=twitter&logoColor=1d9bf0)](https://twitter.com/Grigoren_com)
 [![](https://img.shields.io/badge/facebook-81DAF5?style=for-the-badge&logo=facebook)](https://www.facebook.com/GrigorenCom)
