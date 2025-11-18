@@ -22,9 +22,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlexGrigorenco&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-[![](https://visitcount.itsvg.in/api?id=AlexGrigorenco&icon=5&color=3)](https://visitcount.itsvg.in)
-
+### 📜 Bitrix sertificates: 
+<ul style="list-style: none;">
+  <li>🎓 <a href="./bitrix-sertificates/content-manager.pdf" target="_blank">Контент-менеджер — 2023</a></li>
+  <li>🎓 <a href="./bitrix-sertificates/qVue-and-Bitrix-Framework.pdf" target="_blank">Vue.js и Bitrix Framework — 2025</a></li>
+</ul>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
