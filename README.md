@@ -25,6 +25,6 @@
 ### 📜 Bitrix sertificates: 
 <ul style="list-style: none;">
   <li>🎓 <a href="./bitrix-sertificates/content-manager.pdf" target="_blank">Контент-менеджер — 2023</a></li>
-  <li>🎓 <a href="./bitrix-sertificates/qVue-and-Bitrix-Framework.pdf" target="_blank">Vue.js и Bitrix Framework — 2025</a></li>
+  <li>🎓 <a href="./bitrix-sertificates/Vue-and-Bitrix-Framework.pdf" target="_blank">Vue.js и Bitrix Framework — 2025</a></li>
 </ul>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
