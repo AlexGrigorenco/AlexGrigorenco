@@ -1,4 +1,4 @@
-[![img](/header-img-2.jpg)](https://www.facebook.com/GrigorenCom)
+[![img](/header-img.jpg)](https://www.facebook.com/GrigorenCom)
 # Hello! My name is Alex. I am a Front-End developer.
 ### My experience includes working with HTML, CSS, and JavaScript, as well as modern frameworks such as React and Vue.js. I am passionate about creating beautiful and intuitive user interfaces. I am also interested in learning new technologies and development approaches. My goal is to continue growing as a developer, sharing knowledge with the community, and creating high-quality software products. If you have any questions or proposals for collaboration, feel free to contact me!
 
